@@ -1,0 +1,11 @@
+# PyBuilder
+.idea
+
+# Jupyter Notebook
+*.ipynb_checkpoints/
+
+# Windows bat files
+*.bat
+
+# ESRI crap
+*.sr.lock
